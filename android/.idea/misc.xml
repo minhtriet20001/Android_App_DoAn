@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Doan/android/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Huynh Nhan/Git/Final/android/app/src/main/res/layout/activity_change_password.xml" value="0.264" />
+        <entry key="..\:/Users/Huynh Nhan/Git/Final/android/app/src/main/res/layout/activity_forgot_email.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Huynh Nhan/Git/Final/android/app/src/main/res/layout/activity_list_rating.xml" value="0.190625" />
+        <entry key="..\:/Users/Huynh Nhan/Git/Final/android/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Huynh Nhan/Git/Final/android/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Huynh Nhan/Git/Final/android/app/src/main/res/layout/activity_rating.xml" value="0.190625" />
+        <entry key="..\:/Users/Huynh Nhan/Git/Final/android/app/src/main/res/menu/menu.xml" value="0.190625" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17090301003344482" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/drawable/back_ground_save.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/drawable/background_banner.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/drawable/background_btn.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/drawable/background_btn_menu.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/drawable/bg_round.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/drawable/edittext_background.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17090301003344482" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/drawable/search_edt_background.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/activity_change_password.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/activity_forgot_email.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/activity_history.xml" value="0.25" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/activity_map_pos.xml" value="0.25" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/activity_menu.xml" value="0.264" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/activity_otp.xml" value="0.2" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/activity_payment.xml" value="0.25" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/activity_signup.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/activity_table.xml" value="0.25" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/confirm.xml" value="0.25" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/fragment_maps.xml" value="0.6" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/item_history.xml" value="0.264" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/item_table.xml" value="0.25" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/layout_menu.xml" value="0.264" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/list_payment.xml" value="0.25" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/success.xml" value="0.25" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/success_update.xml" value="0.25" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/layout/test.xml" value="0.25" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/Doan/android/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/project75/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/project75/android/app/src/main/res/drawable/background_banner.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/project75/android/app/src/main/res/drawable/background_btn.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/project75/android/app/src/main/res/drawable/background_btn_menu.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/project75/android/app/src/main/res/drawable/edittext_background.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/project75/android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/project75/android/app/src/main/res/drawable/search_edt_background.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/project75/android/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/project75/android/app/src/main/res/layout/activity_main.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/project75/android/app/src/main/res/layout/activity_main2.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/minht/Desktop/IT/Androi/project75/android/app/src/main/res/layout/activity_signup.xml" value="0.16216216216216217" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
